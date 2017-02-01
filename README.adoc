@@ -1,9 +1,9 @@
 
 =  *SANAL MAKİNE KURULUMU* +
 
-1.1.*İçindekiler* +
-####* 1.Geliştirme Sisteminin Hazırlanması* +
- .. *1.1.İçindekiler* +
+.1.1.*İçindekiler* +
+-1.Geliştirme Sisteminin Hazırlanması* +
+-1.1.İçindekiler* +
  ***** 1.2.Giriş
  ========*1.2.1. Sanal Makine Programı +
  ===========*1.2.1.1. VirtualBox Sanal Makinesinin Kurulumu* +
@@ -120,25 +120,4 @@ Virtualbox programını açtığınızda aşağıdaki pencere gelecektir. +
 
 
 
-
-.Continuation
-- bullet
-continuation
-. number
-  continuation
-* bullet
-
-  literal continuation
-
-.. letter
-+
-Non-literal continuation.
-+
-----
-any block can be
-
-included in list
-----
-+
-Last continuation.
 
