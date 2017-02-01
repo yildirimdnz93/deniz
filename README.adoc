@@ -18,7 +18,7 @@ Sistem Programlama için kullanılacak geliştirme ortamı kurulumu iki adıma i
    *Sanal Makine Dosyasının Kurulumu(xubuntu-kouembedded-v20160217.ova) +
    
    
-1.2.1. **Sanal Makine Programı** +
+1.2.1. ****Sanal Makine Programı**** +
 Sanal Makine programları gerçek bir bilgisayar gibi çalışan yazılımdır. Sanal Makine, işletim sistemi ile donanım arasında bir sanal ortam oluşturur. +
 1.2.1.1. VirtualBox Sanal Makinesinin Kurulumu +
 Sistem programlama dersi için hazırlanan geliştirme ortamı VirtualBox isimli bir sanal makine programı üzerinde çalışacaktır. VirtualBox sanal makine programı aşağıdaki linklerden indirilip kurulabilir. +
