@@ -52,7 +52,67 @@ xubuntu-kouembedded-v20160217.ova 496751616 byte +
 1.4. *İlk Çalıştırma*
 VirtualBox programını açıyoruz. +
 
-image::2.png[Resim 1,height=32]
+image::2.png[Resim 1,height=32] +
+
+
+
+
+
+Dosya menüsünden “Cihazı içe aktar” seçeneğini tıklayın. +
+
+
+
+
+
+
+
+
+Kırmızı ile işaretli seçeneğini tıklayıp sanal makine dosyasını (xubuntu-kouembedded-v20160217.ova) seçiniz.
+Ardından “ileri”ye basınız. +
+
+
+
+
+
+makinenizin özeliklerine göre sanal makineye paylaşacağınız CPU (çekirdek) sayısı ve RAM miktarını değiştirebilirsiniz.
+Ardından “İçe aktar”a tıklayınız. +
+
+
+
+
+
+İşlemin tamamlanmasını bekleyin. İşlem biraz uzun sürebilir. +
+
+1.5. *Sanal Makinenin Kullanımı** +
+
+Virtualbox programını açtığınızda aşağıdaki pencere gelecektir. +
+
+
+
+
+
+*“Başlat”* buttonu ile makineyi başlatın. Makine açıldığında aşağıdaki pencere gelecektir. +
+
+*Dikkat*: Sistem açılması uzun sürebilir, kullanıcı giriş ekranı gelene kadar belli bir süre beklemeniz gerekebilir. +
+
+*Not:* 5 dakika geçtikten sonra siyah ekranda kalma durumunda veya açılma sırasında bir hata mesajı ile karşılaşılması durumunda “Kurulum Problemleri” dokümanını inceleyiniz. +
+
+
+
+
+
+
+
+
+
+*kullanıcı adı* = user ve parola = 1 tane boşluk karakteri (space) +
+
+
+
+
+
+
+
 
 
 
