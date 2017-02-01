@@ -1,2 +1,2 @@
 
-image::unnamed.png[Resim 1,height=32] 
+image::unnamed.png[Resim 1] 
