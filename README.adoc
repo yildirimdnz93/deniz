@@ -46,8 +46,12 @@ Sanal makinede resmi olarak desteklenmeyen, değiştirilmiş bir GNU/Linux dağ�
 Sanal makineye tarafımızca güvenlik garantisi verilmemektedir. Ders amacı dışında kullanmanız tavsiye edilmez. Sanal makine içindeki yazılımlara kişisel bilgi ve parola (mail vb.) girmeyiniz. +
 Güvenmediğiniz bir kaynaktan aldığınız sanal makine dosyasını sha1sum kontrolünü yaparak kullanmanız tavsiye edilir. +
 
-sha1sum: 6c89fb4c637c1c965331b52dcdac922f9a32c0eb+
-xubuntu-kouembedded-v20160217.ova 496751616 byte+
+sha1sum: 6c89fb4c637c1c965331b52dcdac922f9a32c0eb +
+xubuntu-kouembedded-v20160217.ova 496751616 byte +
+
+1.4. *İlk Çalıştırma*
+VirtualBox programını açıyoruz. +
+
 
 
 
