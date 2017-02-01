@@ -1,2 +1,2 @@
 
-image::github-unnamed.png[width=5%] 
+image::unnamed.png[Resim 1,height=32] 
