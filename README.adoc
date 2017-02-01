@@ -8,11 +8,11 @@
  ========1.2.1. Sanal Makine Programı +
  ===========1.2.1.1. VirtualBox Sanal Makinesinin Kurulumu +
  ========1.2.2. Sanal Makine Dosyası +
- =====1.3. Güvenlik Notları +
- =====1.4. İlk Çalıştırma +
- =====1.5. Sanal Makinenin Kullanımı +
+ ===== 1.3. Güvenlik Notları +
+ ===== 1.4. İlk Çalıştırma +
+ ===== 1.5. Sanal Makinenin Kullanımı +
 
-1.2.*Giriş* +
+=  1.2.*Giriş* +
 Sistem Programlama için kullanılacak geliştirme ortamı kurulumu iki adıma ihtiyaç duymaktadır. + 
    *Sanal Makine Programı(VirtualBox) +
    *Sanal Makine Dosyasının Kurulumu(xubuntu-kouembedded-v20160217.ova) +
@@ -20,7 +20,7 @@ Sistem Programlama için kullanılacak geliştirme ortamı kurulumu iki adıma i
    
 1.2.1. ***Sanal Makine Programı*** +
 Sanal Makine programları gerçek bir bilgisayar gibi çalışan yazılımdır. Sanal Makine, işletim sistemi ile donanım arasında bir sanal ortam oluşturur. +
-1.2.1.1. VirtualBox Sanal Makinesinin Kurulumu +
+1.2.1.1.**VirtualBox Sanal Makinesinin Kurulumu** +
 Sistem programlama dersi için hazırlanan geliştirme ortamı VirtualBox isimli bir sanal makine programı üzerinde çalışacaktır. VirtualBox sanal makine programı aşağıdaki linklerden indirilip kurulabilir. +
 
 Windows http://download.virtualbox.org/virtualbox/4.3.36/VirtualBox-4.3.36-105129-Win.exe/ +
@@ -31,7 +31,7 @@ VirtualBox kurulumu tamamlandıktan sonra programa ait birkaç özelliğin aktif
 
 http://download.virtualbox.org/virtualbox/4.3.36/Oracle_VM_VirtualBox_Extension_Pack-4.3.36-105129.vbox-extpack/ +
 
-1.2.2. Sanal Makine Dosyası
+1.2.2. **Sanal Makine Dosyası**
 Bilgisayar üzerinde sanal makine çalıştırmak için gerekli olan ikinci adım ise VirtualBox sanal makine programı içinde çalışacak “ova” uzantılı sanal makina kalıbının eklenmesidir. +
 
 2016 Bahar yarıyılı Sistem programlama dersi için kullanılacak sanal makine kalıbını ismi “xubuntu-kouembedded-v20160217.ova” dır. Bu sanal makine kalıbı gömülü sistem lab. tarfından sistem programlama dersi için hazırlanmış olup hiçbir lisans kısıtlaması mevcut değildir. Dolayısıyla kalıp istenildiği takdirde internet üzerinden paylaşılabilir. +
