@@ -1,5 +1,5 @@
 
-=  ECLİPSE KURULUMU
+=  *SANAL MAKİNE KURULUMU*+
 
 1.*İçindekiler* +
    1.İçindekiler +
