@@ -4,7 +4,7 @@
 1.1.*İçindekiler* +
 #### 1.Geliştirme Sisteminin Hazırlanması +
  .. 1.1.İçindekiler +
- =====1.2. Giriş +
+ ****1.2. Giriş +
  ========1.2.1. Sanal Makine Programı +
  ===========1.2.1.1. VirtualBox Sanal Makinesinin Kurulumu +
  ========1.2.2. Sanal Makine Dosyası +
