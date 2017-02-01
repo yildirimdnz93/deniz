@@ -1,2 +1,2 @@
 
-image::github-unnamed.png[width=5%] demek. width=5%
+image::github-unnamed.png[width=5%] 
