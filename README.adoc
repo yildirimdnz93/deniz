@@ -2,7 +2,7 @@
 =  *SANAL MAKİNE KURULUMU* +
 
 1.1.*İçindekiler* +
- ===1.Geliştirme Sisteminin Hazırlanması +
+ ===1.Geliştirme Sisteminin Hazırlanması=== +
  =====1.1.İçindekiler +
  =====1.2. Giriş +
  ========1.2.1. Sanal Makine Programı +
