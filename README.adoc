@@ -119,5 +119,17 @@ Virtualbox programını açtığınızda aşağıdaki pencere gelecektir. +
 
 
 
+.Indent is optional
+- bullet
+    * another bullet
+        1. number
+        .  again number
+            a. letter
+            .. again letter
 
+.. letter
+. number
+
+* bullet
+- bullet
 
