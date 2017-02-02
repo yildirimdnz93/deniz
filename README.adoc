@@ -6,11 +6,11 @@
 .. İçindekiler 
 .. Giriş
 ... Sanal Makine Programı 
-....  VirtualBox Sanal Makinesinin Kurulumu* 
-... Sanal Makine Dosyası* 
-.. Güvenlik Notları* 
-.. İlk Çalıştıma* 
-.. Sanal Makinenin Kullanımı* 
+....  VirtualBox Sanal Makinesinin Kurulumu 
+... Sanal Makine Dosyası 
+.. Güvenlik Notları 
+.. İlk Çalıştıma 
+.. Sanal Makinenin Kullanımı 
 
 =  1.2.*Giriş* +
 Sistem Programlama için kullanılacak geliştirme ortamı kurulumu iki adıma ihtiyaç duymaktadır. + 
