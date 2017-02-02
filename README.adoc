@@ -1,16 +1,16 @@
 
 =  *SANAL MAKİNE KURULUMU* +
 
-.1.1.*İçindekiler* +
--1.Geliştirme Sisteminin Hazırlanması* +
--1.1.İçindekiler* +
- ***** 1.2.Giriş
- ========*1.2.1. Sanal Makine Programı +
- ===========*1.2.1.1. VirtualBox Sanal Makinesinin Kurulumu* +
- ========*1.2.2. Sanal Makine Dosyası* +
- =====*1.3. Güvenlik Notları* +
-     ::*1.4. İlk Çalıştırma* +
-     .. *1.5. Sanal Makinenin Kullanımı* +
+== *İçindekiler* +
+. Geliştirme Sisteminin Hazırlanması* +
+.. İçindekiler* +
+.. Giriş
+... Sanal Makine Programı +
+....  VirtualBox Sanal Makinesinin Kurulumu* +
+... Sanal Makine Dosyası* +
+.. Güvenlik Notları* +
+.. İlk Çalıştırma* +
+.. Sanal Makinenin Kullanımı* +
 
 =  1.2.*Giriş* +
 Sistem Programlama için kullanılacak geliştirme ortamı kurulumu iki adıma ihtiyaç duymaktadır. + 
