@@ -1,4 +1,5 @@
 =  *Hazır Fonksiyonları Kullanmak İçin Proje Ayarları* +
+
 Proje isminde sağa tıklayarak açılan bölümde *Properties* e tıklayınız. 
   +
  Açılan menüden C/C++ Build -> Settings menüsünü açınız. 
