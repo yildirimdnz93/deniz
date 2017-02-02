@@ -59,6 +59,7 @@ image::resm1.jpg[R]
 
 
 Dosya menüsünden “Cihazı içe aktar” seçeneğini tıklayın. +
+
 image::resim2.jpg[R] 
 
 
@@ -70,7 +71,7 @@ image::resim2.jpg[R]
 Kırmızı ile işaretli seçeneğini tıklayıp sanal makine dosyasını (xubuntu-kouembedded-v20160217.ova) seçiniz.
 Ardından “ileri”ye basınız. +
 
-
+image::resim3.jpg[R] 
 
 
 
