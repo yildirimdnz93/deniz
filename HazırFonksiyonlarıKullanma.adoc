@@ -1,4 +1,5 @@
- = *Hazır Fonksiyonları Kullanmak İçin Proje Ayarları* +
+=  *SANAL MAKİNE KURULUMU* +
+= *Hazır Fonksiyonları Kullanmak İçin Proje Ayarları* +
  
  Proje isminde sağa tıklayarak açılan bölümde *Properties* e tıklayınız. 
   +
