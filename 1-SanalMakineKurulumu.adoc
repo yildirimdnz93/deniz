@@ -52,7 +52,7 @@ xubuntu-kouembedded-v20160217.ova 496751616 byte +
 * *İlk Çalıştırma* + 
 VirtualBox programını açıyoruz. +
 
-image::resm1.png[R] +
+image::resim3.jpg[R] 
 
 
 
