@@ -52,14 +52,14 @@ xubuntu-kouembedded-v20160217.ova 496751616 byte +
 * *İlk Çalıştırma* + 
 VirtualBox programını açıyoruz. +
 
-image::resim3.jpg[R] 
+image::resm1.jpg[R] 
 
 
 
 
 
 Dosya menüsünden “Cihazı içe aktar” seçeneğini tıklayın. +
-
+image::resim2.jpg[R] 
 
 
 
