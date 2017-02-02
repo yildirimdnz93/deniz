@@ -2,8 +2,8 @@
 =  *SANAL MAKİNE KURULUMU* +
 
 == *İçindekiler* +
-. Geliştirme Sisteminin Hazırlanması* +
-.. İçindekiler* +
+. Geliştirme Sisteminin Hazırlanması +
+.. İçindekiler +
 .. Giriş
 ... Sanal Makine Programı +
 ....  VirtualBox Sanal Makinesinin Kurulumu* +
