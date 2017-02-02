@@ -3,11 +3,10 @@
 
 
 
-
 Proje isminde sağa tıklayarak açılan bölümde *Properties* e tıklayınız. 
   +
  Açılan menüden C/C++ Build -> Settings menüsünü açınız. 
  Aşağıdaki şekildeki gibi “*Cross ARM C Linker*”  altından *“*Miscellaneous** ”’u açınız. +
  “*Other objects*” kısmındaki ekleme buttonuna tıklayınız.
 
-Proje isminde sağa tıklayarak açılan bölümde *Properties* e tıklayınız. 
+
