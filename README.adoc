@@ -12,7 +12,7 @@
 .. İlk Çalıştıma 
 .. Sanal Makinenin Kullanımı 
 
-  .*Giriş* 
+  **Giriş* 
 Sistem Programlama için kullanılacak geliştirme ortamı kurulumu iki adıma ihtiyaç duymaktadır. + 
    *Sanal Makine Programı(VirtualBox) +
    *Sanal Makine Dosyasının Kurulumu(xubuntu-kouembedded-v20160217.ova) +
