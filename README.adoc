@@ -29,7 +29,7 @@ Sistem programlama dersi için hazırlanan geliştirme ortamı VirtualBox isimli
 
 VirtualBox kurulumu tamamlandıktan sonra programa ait birkaç özelliğin aktif hale gelmesi için aşağıdaki linkteki ek paketinde indirilip kurulması gerekmektedir.+
 
-** http://download.virtualbox.org/virtualbox/4.3.36/Oracle_VM_VirtualBox_Extension_Pack-4.3.36-105129.vbox-extpack/ 
+** http://download.virtualbox.org/virtualbox/4.3.36/Oracle_VM_VirtualBox_Extension_Pack-4.3.36-105129.vbox-extpack/ + 
 
 .. *Sanal Makine Dosyası* 
 Bilgisayar üzerinde sanal makine çalıştırmak için gerekli olan ikinci adım ise VirtualBox sanal makine programı içinde çalışacak “ova” uzantılı sanal makina kalıbının eklenmesidir. +
@@ -38,8 +38,8 @@ Bilgisayar üzerinde sanal makine çalıştırmak için gerekli olan ikinci adı
 
 Derse ait “xubuntu-kouembedded-v20160217.ova” isimli sanal makine programına aşağıdaki linklerden erişebilirsiniz.+
 
-** https://github.com/KOU-Embedded-System-Lab/os-base-image/releases/download/v20160217/xubuntu-kouembedded-v20160217.ova/
-** https://github.com/KOU-Embedded-System-Lab/os-base-image/releases/ 
+** https://github.com/KOU-Embedded-System-Lab/os-base-image/releases/download/v20160217/xubuntu-kouembedded-v20160217.ova/ +
+** https://github.com/KOU-Embedded-System-Lab/os-base-image/releases/ +
 
 * *Güvenlik Notları* 
 Sanal makinede resmi olarak desteklenmeyen, değiştirilmiş bir GNU/Linux dağıtımı bulunmaktadır. İşletim sisteminde laboratuvar tarafından ders için değişiklik yapılmıştır ve gerektiğinde ders ile ilgili güncelleme verilecektir. +
