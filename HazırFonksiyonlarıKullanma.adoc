@@ -7,4 +7,4 @@
  Aşağıdaki şekildeki gibi “*Cross ARM C Linker*”  altından *“*Miscellaneous** ”’u açınız. +
  “*Other objects*” kısmındaki ekleme buttonuna tıklayınız.
 
-
+Proje isminde sağa tıklayarak açılan bölümde *Properties* e tıklayınız. 
