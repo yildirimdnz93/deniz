@@ -41,7 +41,7 @@ Derse ait “xubuntu-kouembedded-v20160217.ova” isimli sanal makine programın
 ** https://github.com/KOU-Embedded-System-Lab/os-base-image/releases/download/v20160217/xubuntu-kouembedded-v20160217.ova/ +
 ** https://github.com/KOU-Embedded-System-Lab/os-base-image/releases/ +
 
-* *Güvenlik Notları* 
+* *Güvenlik Notları* +
 Sanal makinede resmi olarak desteklenmeyen, değiştirilmiş bir GNU/Linux dağıtımı bulunmaktadır. İşletim sisteminde laboratuvar tarafından ders için değişiklik yapılmıştır ve gerektiğinde ders ile ilgili güncelleme verilecektir. +
 Sanal makineye tarafımızca güvenlik garantisi verilmemektedir. Ders amacı dışında kullanmanız tavsiye edilmez. Sanal makine içindeki yazılımlara kişisel bilgi ve parola (mail vb.) girmeyiniz. +
 Güvenmediğiniz bir kaynaktan aldığınız sanal makine dosyasını sha1sum kontrolünü yaparak kullanmanız tavsiye edilir. +
@@ -49,7 +49,7 @@ Güvenmediğiniz bir kaynaktan aldığınız sanal makine dosyasını sha1sum ko
 sha1sum: 6c89fb4c637c1c965331b52dcdac922f9a32c0eb +
 xubuntu-kouembedded-v20160217.ova 496751616 byte +
 
-* *İlk Çalıştırma* 
+* *İlk Çalıştırma* + 
 VirtualBox programını açıyoruz. +
 
 image::2.png[Resim 1,height=32] +
