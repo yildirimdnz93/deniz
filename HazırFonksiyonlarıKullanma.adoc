@@ -1,4 +1,4 @@
- = *Hazır Fonksiyonları Kullanmak İçin Proje Ayarları* 
+ = *Hazır Fonksiyonları Kullanmak İçin Proje Ayarları* +
  
  Proje isminde sağa tıklayarak açılan bölümde *Properties* e tıklayınız. 
   +
