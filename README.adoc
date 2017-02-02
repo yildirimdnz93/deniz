@@ -27,7 +27,7 @@ Sistem programlama dersi için hazırlanan geliştirme ortamı VirtualBox isimli
 ** GNU/Linux: Yazılım merkezi kullanılarak indirilebilir. +
 ** OS X: http://download.virtualbox.org/virtualbox/4.3.36/VirtualBox-4.3.36-105129-OSX.dmg/ +
 
-VirtualBox kurulumu tamamlandıktan sonra programa ait birkaç özelliğin aktif hale gelmesi için aşağıdaki linkteki ek paketinde indirilip kurulması gerekmektedir.+
+VirtualBox kurulumu tamamlandıktan sonra programa ait birkaç özelliğin aktif hale gelmesi için aşağıdaki linkteki ek paketinde indirilip kurulması gerekmektedir. +
 
 ** http://download.virtualbox.org/virtualbox/4.3.36/Oracle_VM_VirtualBox_Extension_Pack-4.3.36-105129.vbox-extpack/ + 
 
@@ -36,7 +36,7 @@ Bilgisayar üzerinde sanal makine çalıştırmak için gerekli olan ikinci adı
 
 2016 Bahar yarıyılı Sistem programlama dersi için kullanılacak sanal makine kalıbını ismi “xubuntu-kouembedded-v20160217.ova” dır. Bu sanal makine kalıbı gömülü sistem lab. tarfından sistem programlama dersi için hazırlanmış olup hiçbir lisans kısıtlaması mevcut değildir. Dolayısıyla kalıp istenildiği takdirde internet üzerinden paylaşılabilir. +
 
-Derse ait “xubuntu-kouembedded-v20160217.ova” isimli sanal makine programına aşağıdaki linklerden erişebilirsiniz.+
+Derse ait “xubuntu-kouembedded-v20160217.ova” isimli sanal makine programına aşağıdaki linklerden erişebilirsiniz. +
 
 ** https://github.com/KOU-Embedded-System-Lab/os-base-image/releases/download/v20160217/xubuntu-kouembedded-v20160217.ova/ +
 ** https://github.com/KOU-Embedded-System-Lab/os-base-image/releases/ +
