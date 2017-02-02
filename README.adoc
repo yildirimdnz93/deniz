@@ -23,13 +23,13 @@ Sanal Makine programları gerçek bir bilgisayar gibi çalışan yazılımdır. 
 ... *VirtualBox Sanal Makinesinin Kurulumu* +
 Sistem programlama dersi için hazırlanan geliştirme ortamı VirtualBox isimli bir sanal makine programı üzerinde çalışacaktır. VirtualBox sanal makine programı aşağıdaki linklerden indirilip kurulabilir. +
 
-Windows http://download.virtualbox.org/virtualbox/4.3.36/VirtualBox-4.3.36-105129-Win.exe/ +
-GNU/Linux: Yazılım merkezi kullanılarak indirilebilir. +
-OS X: http://download.virtualbox.org/virtualbox/4.3.36/VirtualBox-4.3.36-105129-OSX.dmg/ +
+. Windows http://download.virtualbox.org/virtualbox/4.3.36/VirtualBox-4.3.36-105129-Win.exe/ +
+. GNU/Linux: Yazılım merkezi kullanılarak indirilebilir. +
+. OS X: http://download.virtualbox.org/virtualbox/4.3.36/VirtualBox-4.3.36-105129-OSX.dmg/ +
 
 VirtualBox kurulumu tamamlandıktan sonra programa ait birkaç özelliğin aktif hale gelmesi için aşağıdaki linkteki ek paketinde indirilip kurulması gerekmektedir.+
 
-http://download.virtualbox.org/virtualbox/4.3.36/Oracle_VM_VirtualBox_Extension_Pack-4.3.36-105129.vbox-extpack/ +
+. http://download.virtualbox.org/virtualbox/4.3.36/Oracle_VM_VirtualBox_Extension_Pack-4.3.36-105129.vbox-extpack/ +
 
 1.2.2. **Sanal Makine Dosyası** +
 Bilgisayar üzerinde sanal makine çalıştırmak için gerekli olan ikinci adım ise VirtualBox sanal makine programı içinde çalışacak “ova” uzantılı sanal makina kalıbının eklenmesidir. +
